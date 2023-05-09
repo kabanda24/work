@@ -1,0 +1,103 @@
+ul{
+    text-align: center;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    padding: 30px;
+    margin-left: 700px;
+}
+li{
+    margin-left: 15px;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: 700;
+   background-color: azure;
+   border-radius: 9px;
+   padding: 5px;
+    
+    
+}
+.naav{
+    background-color: rgba(159, 151, 192, 0.293);
+    margin-left: 0px;
+
+}
+.naav .btn{
+    margin-left: 120px;
+    border-radius: 10px;
+
+    
+}
+*{
+    text-decoration: none;
+    color: black;
+}
+.main{
+    margin-top: -95px;
+    margin-left: 20px;
+}
+.main h3{
+    font-size: 32px;
+    text-shadow: 2px 2px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.memo{
+    margin-top: 100px;
+    
+    background-color: rgba(159, 151, 192, 0.293);
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+}
+.memo p{
+  
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+}
+
+.memo1{
+    margin-top: 500px;
+    
+    background-color: rgba(159, 151, 192, 0.293);
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+}
+.memo1 p{
+  
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+}
+
+.memo2{
+    margin-top: 500px;
+    margin-left: 900px;    
+    background-color: rgba(159, 151, 192, 0.293);
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+}
+.memo2 p{
+  
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+}
+
+.memo3{
+    margin-top: 100px;
+    margin-left: 900px;    
+    background-color: rgba(159, 151, 192, 0.293);
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+}
+.memo3 p{
+  
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+}
